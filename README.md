@@ -1,5 +1,9 @@
-### Hi there 👋
+### Salut 👋
 
+### Bienvenue sur mon profil
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java)](https://skillicons.dev)
+
+J'apprends actuellement le java et le c-sharp
 <!--
 **Niinjaaa/Niinjaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
