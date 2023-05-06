@@ -1,4 +1,4 @@
-### Salut 👋
+# Salut 👋
 
 ### Bienvenue sur mon profil
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java)](https://skillicons.dev)
